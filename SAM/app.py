@@ -3,6 +3,7 @@ from flask_cors import CORS
 import firebase_admin
 from firebase_admin import credentials,storage
 import os
+os.environ['KMP_DUPLICATE_LIB_OK']='True'
 import torch
 from segment_anything import sam_model_registry, SamAutomaticMaskGenerator
 import numpy as np
@@ -16,6 +17,7 @@ import time
 HOME = os.getcwd()
 app = Flask(__name__)
 CORS(app)
+
 
 #connect to firebase database
 cred = credentials.Certificate('../functions/project-09-e4dd7-firebase-adminsdk-508df-4fb4827183.json')
