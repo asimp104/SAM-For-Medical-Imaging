@@ -11,8 +11,13 @@ This web app allows users to upload a DICOM image and the segmented image will b
 
 
 ## Video/demo/GIF
-Record a short video (1:40 - 2 minutes maximum) or gif or a simple screen recording or even using PowerPoint with audio or with text, showcasing your work.
 
+Link to the Demo Video on YouTube:
+
+https://youtu.be/l7nAdkC-3Kc
+
+Demo video can be downloaded through this link (expires Dec 12):
+https://wetransfer.com/downloads/8c6c13ec6f487d89673af8de98a160ec20231206020832/9349e0
 
 ## Table of Contents
 1. [Demo](#demo)
@@ -54,7 +59,8 @@ repository
 
 The code requires the following dependencies:
 1. Python version 3.9 - 3.11 (3.12 will not work!)
-2. Node.js 
+2. Node.js
+(Make sure that you also have npm installed)
 
 Clone the repository onto your computer
 
