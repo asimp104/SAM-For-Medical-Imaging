@@ -3,21 +3,11 @@ SAM Segmentation Machine is a full stack web application created by Mathew Tse, 
 This web app allows users to upload a DICOM image and the segmented image will be returned in the 'processed images' page.  
 
 
-## Important Links
-
-| [Timesheet](https://1sfu-my.sharepoint.com/:x:/g/personal/kabhishe_sfu_ca/EfPw-6yhhaNMjL7N1J2hK7MBpV-RSoG_9ocsgho20TwK2g?e=2bi2Im) | [Slack channel](https://app.slack.com/client/T05JYJAF22G/C05T7MA6T6J/docs/Qp:F05U3C2D1CG) | [Project report](https://www.overleaf.com/project/650ca0c0dcd3d7eb38ba626b) |
-|-----------|---------------|-------------------------|
-
-
-
 ## Video/demo/GIF
 
 Link to the Demo Video on YouTube:
 
 https://youtu.be/l7nAdkC-3Kc
-
-Demo video can be downloaded through this link (expires Dec 12):
-https://wetransfer.com/downloads/8c6c13ec6f487d89673af8de98a160ec20231206020832/9349e0
 
 ## Table of Contents
 1. [Demo](#demo)
